@@ -10,11 +10,9 @@ Installation for this webpage is not necessary, the deployed website can be view
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
+Simply naviate to the following URL to learn all about the wonderful services Horiseon has to offer: https://moviefan322.github.io/challenge-1/
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
-
-![alt text](assets/images/screenshot.png)
+![Screenshot of webpage](./Develop/assets/images/horiseon-screenshot.png)
 
 ## Credits
 
